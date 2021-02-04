@@ -1,3 +1,5 @@
+Project developed in order to measure the ReactJS challenge and, in turn, get to know its and apply its fundamentals.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -13,7 +13,7 @@ const Header = ({ hideMenu }) => {
     setUser(JSON.parse(localStorage.getItem('@user')));
   }, []);
 
-  return (
+  return ( 
     <header className="row">
       <div className="col-2">
         <img src={require('../../assets/logo.png').default} alt="decorative" />
